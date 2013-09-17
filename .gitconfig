@@ -1,0 +1,7 @@
+[user]
+	name = Jan-Gerd Tenberge
+	email = janten@gmail.com
+[core]
+	editor = mate -w
+[push]
+	default = matching
